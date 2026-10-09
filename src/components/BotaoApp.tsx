@@ -295,7 +295,7 @@ export default function BotaoApp() {
             </span>
             <div>
               <h1 className="text-2xl font-black leading-none tracking-tight sm:text-3xl">
-                Botão <span className="text-emerald-400">Copa 2026</span>
+                Copa <span className="text-emerald-400">Botão 2026</span>
               </h1>
               <p className="text-xs text-white/60 sm:text-sm">Futebol de botão · jogar ou assistir · 48 seleções</p>
             </div>
